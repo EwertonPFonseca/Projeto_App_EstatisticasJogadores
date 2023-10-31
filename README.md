@@ -19,5 +19,5 @@ Página "jogador":
   - para melhorar a busca, o usuário filtra primeiro um clube e após essa seleção, no segundo selectbox (jogador) consta a relação de jogadores daquele clube
 
 Página "time":
-  -exibe um dataframe contendo dados pertinentes de jogadores de um clube selecionado
+  - exibe um dataframe contendo dados pertinentes de jogadores de um clube selecionado
  
