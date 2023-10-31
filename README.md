@@ -20,5 +20,5 @@ Página "jogador":
 
 Página "time":
 
- exibe um dataframe contendo dados pertinentes de jogadores de um clube selecionado
+ -exibe um dataframe contendo dados pertinentes de jogadores de um clube selecionado
  
